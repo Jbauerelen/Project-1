@@ -10,14 +10,21 @@ portions of the YAML playbook files may be used to install only certain pieces o
 •	Ansible/metricbeat-playbook.yml
 
 This document contains the following details:
+
 •	Description of the Topology
+
 •	Access Policies
+
 •	ELK Configuration
+
 o	Beats in Use
+
 o	Machines Being Monitored
+
 •	How to Use the Ansible Build
 
 Description of the Topology
+
 Here is a link to a visual Network Topology: https://drive.google.com/file/d/1Ks2aeKfqkriY072GhqVB1WyFbI7tGwvk/view?usp=sharing
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 Load balancing ensures that the application will be highly available in addition to restricting access to the network.
